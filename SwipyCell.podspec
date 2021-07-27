@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.license = { :type => "MIT", :file => "LICENSE" }
   s.author = { "Moritz Sternemann" => "opensource@moritzsternemann.de" }
   s.social_media_url = "https://twitter.com/strnmn"
-  s.platform = :ios, "12.0"
+  s.platform = :ios, "11.0"
   s.swift_version = "5.3"
   s.source = { :git => "https://github.com/moritzsternemann/SwipyCell.git", :tag => s.version }
   s.source_files = "Sources/SwipyCell"
